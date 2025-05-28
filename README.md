@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-- 🙋‍♂️ All about me is at **[My Website](https://jamalihassan0307.github.io/portfolio.github.io/)**
+- 🙋‍♂️ All about me is at **[My Website](https://hasnain2004.github.io/portfolio.github.io/)**
 
 - 🔭 I'm a 2022 Graduate and my branch is `Computer Science`.
   
@@ -80,7 +80,7 @@
     <td><a href="https://www.linkedin.com/in/ali-hassan-b17815281/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45px" /> </a></td>
   
     <td><a href="https://www.facebook.com/jamali.hassan.946" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="45px" /> </a>
-    <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=jamalihassan0307@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="35px"/> </a></td>
+    <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=hasnain2004@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="35px"/> </a></td>
   </table>
 </details>
 
@@ -119,21 +119,21 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamalihassan0307&show_icons=true&theme=dark" alt="Salem's GitHub stats" style="max-width: 100%; margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamalihassan0307&theme=dark" alt="GitHub Streak" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasnain2004&show_icons=true&theme=dark" alt="Salem's GitHub stats" style="max-width: 100%; margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnain2004&theme=dark" alt="GitHub Streak" style="max-width: 100%;" />
 </p>
 
 <h3 align="left">Trophies:</h3>
 <p align="left">
-  <a href="https://github-profile-trophy.vercel.app/?username=jamalihassan0307&theme=dark">
-    <img src="https://github-profile-trophy.vercel.app/?username=jamalihassan0307&theme=dark" alt="Trophies" style="max-width: 100%;">
+  <a href="https://github-profile-trophy.vercel.app/?username=hasnain2004&theme=dark">
+    <img src="https://github-profile-trophy.vercel.app/?username=hasnain2004&theme=dark" alt="Trophies" style="max-width: 100%;">
   </a>
 </p> 
 
 <h3 align="left">Top Languages:</h3>
 <p align="left">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalihassan0307&layout=compact&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalihassan0307&layout=compact&theme=dark" alt="Top Languages" style="max-width: 100%;">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain2004&layout=compact&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain2004&layout=compact&theme=dark" alt="Top Languages" style="max-width: 100%;">
   </a>
 </p>
 
@@ -184,15 +184,15 @@
   <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🌐_Social_Networks-orange?style=plastic" width="200px" height="40px" /></a></summary>
   <table border="3" align="center">
     <tr>
-      <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=jamalihassan0307@gmail.com&tf=cm" target="_blank"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail" width="55" /></a></td>
-      <td align="center"><a href="https://github.com/jamalihassan0307" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GitHub_Sponsor.png" alt="GitHub Sponsor" width="65" /></a></td>
+      <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=hasnain2004@gmail.com&tf=cm" target="_blank"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail" width="55" /></a></td>
+      <td align="center"><a href="https://github.com/hasnain2004" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GitHub_Sponsor.png" alt="GitHub Sponsor" width="65" /></a></td>
       <td align="center"><a href="https://www.linkedin.com/in/ali-hassan-b17815281/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" alt="LinkedIn" width="55" /></a></td>
       <td align="center"><a href="https://wa.me/923073921189" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" alt="WhatsApp" width="55" /></a></td>
       <td align="center"><a href="https://www.facebook.com/jamali.hassan.946" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Facebook" width="55" /></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=jamalihassan0307@gmail.com&tf=cm"><img src="https://readme-components.vercel.app/api?component=logo&fill=DB4437&logo=gmail&svgfill=4285F4"></a></td>
-      <td align="center"><a href="https://github.com/jamalihassan0307"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=white"></a></td>
+      <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=hasnain2004@gmail.com&tf=cm"><img src="https://readme-components.vercel.app/api?component=logo&fill=DB4437&logo=gmail&svgfill=4285F4"></a></td>
+      <td align="center"><a href="https://github.com/hasnain2004"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=white"></a></td>
        <td align="center"><a href="https://www.linkedin.com/in/ali-hassan-b17815281/"><img src="https://readme-components.vercel.app/api?component=logo&fill=0e76a8&logo=linkedin&svgfill=white"></a></td>
       <td align="center"><a href="https://wa.me/923073921189"><img src="https://readme-components.vercel.app/api?component=logo&fill=25D366&logo=whatsapp&svgfill=white"></a></td>
       <td align="center"><a href="https://www.facebook.com/jamali.hassan.946"><img src="https://readme-components.vercel.app/api?component=logo&fill=4267B2&logo=facebook&svgfill=white"></a></td>
@@ -208,28 +208,28 @@
 <details open> 
  <summary align="left"><b>Projects Screenshots</b></summary>
   
-[![GitHub Logo](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql/blob/master/ss/1.png)](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql)
-[![GitHub Logo](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql/blob/master/ss/2.png)](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql)
-[![GitHub Logo](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql/blob/master/ss/3.png)](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql)
-[![GitHub Logo](https://github.com/jamalihassan0307/Ludo-Fluter-For-FourPlayer-With-Provider-with-sound/blob/main/assets/Copy%20of%20Flutter%20App%20UI%20(1).png)](https://github.com/jamalihassan0307/Ludo-Fluter-For-FourPlayer-With-Provider-with-sound)
-[![GitHub Logo](https://github.com/jamalihassan0307/Furniture-App-Flutter/blob/main/assets/Copy%20of%20full%20stack%20app.png)](https://github.com/jamalihassan0307/Furniture-App-Flutter)
-[![GitHub Logo](https://github.com/jamalihassan0307/Flutter-Cake-App/blob/main/assets/Copy%20of%20Flutter%20App%20UI.png)](https://github.com/jamalihassan0307/Flutter-Cake-App)
-[![GitHub Logo](https://github.com/jamalihassan0307/Flutter-ChatGPT-Text-and-image-generater/raw/master/Copy%20of%20Flutter%20App%20UI.png)](https://github.com/jamalihassan0307/Flutter-ChatGPT-Text-and-image-generater)
-[![GitHub Logo](https://github.com/jamalihassan0307/Flutter-Travel-App/blob/main/assets/traveling%20app.png)](https://github.com/jamalihassan0307/Flutter-Travel-App)
-[![GitHub Logo](https://github.com/jamalihassan0307/elderly-Exercisec-App-with-sqflite-database/raw/main/ex_app.png)](https://github.com/jamalihassan0307/elderly-Exercisec-App-with-sqflite-database)
-[![GitHub Logo](https://github.com/jamalihassan0307/Flutter-Plant-App/raw/main/plantPic.png)](https://github.com/jamalihassan0307/Flutter-Plant-App)
+[![GitHub Logo](https://github.com/hasnain2004/Doctor-Appointment-App-with-sql/blob/master/ss/1.png)](https://github.com/hasnain2004/Doctor-Appointment-App-with-sql)
+[![GitHub Logo](https://github.com/hasnain2004/Doctor-Appointment-App-with-sql/blob/master/ss/2.png)](https://github.com/hasnain2004/Doctor-Appointment-App-with-sql)
+[![GitHub Logo](https://github.com/hasnain2004/Doctor-Appointment-App-with-sql/blob/master/ss/3.png)](https://github.com/hasnain2004/Doctor-Appointment-App-with-sql)
+[![GitHub Logo](https://github.com/hasnain2004/Ludo-Fluter-For-FourPlayer-With-Provider-with-sound/blob/main/assets/Copy%20of%20Flutter%20App%20UI%20(1).png)](https://github.com/hasnain2004/Ludo-Fluter-For-FourPlayer-With-Provider-with-sound)
+[![GitHub Logo](https://github.com/hasnain2004/Furniture-App-Flutter/blob/main/assets/Copy%20of%20full%20stack%20app.png)](https://github.com/hasnain2004/Furniture-App-Flutter)
+[![GitHub Logo](https://github.com/hasnain2004/Flutter-Cake-App/blob/main/assets/Copy%20of%20Flutter%20App%20UI.png)](https://github.com/hasnain2004/Flutter-Cake-App)
+[![GitHub Logo](https://github.com/hasnain2004/Flutter-ChatGPT-Text-and-image-generater/raw/master/Copy%20of%20Flutter%20App%20UI.png)](https://github.com/hasnain2004/Flutter-ChatGPT-Text-and-image-generater)
+[![GitHub Logo](https://github.com/hasnain2004/Flutter-Travel-App/blob/main/assets/traveling%20app.png)](https://github.com/hasnain2004/Flutter-Travel-App)
+[![GitHub Logo](https://github.com/hasnain2004/elderly-Exercisec-App-with-sqflite-database/raw/main/ex_app.png)](https://github.com/hasnain2004/elderly-Exercisec-App-with-sqflite-database)
+[![GitHub Logo](https://github.com/hasnain2004/Flutter-Plant-App/raw/main/plantPic.png)](https://github.com/hasnain2004/Flutter-Plant-App)
 
  
 <table border="1">
   <tr>
     <td align="left">
       <img
-        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(25).png"
+        src="https://github.com/hasnain2004/hasnain2004/blob/main/pic/Screenshot%20(25).png"
       />
     </td>
     <td align="right">
       <img
-        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(28).png"
+        src="https://github.com/hasnain2004/hasnain2004/blob/main/pic/Screenshot%20(28).png"
       />
     </td>
   </tr>
@@ -245,12 +245,12 @@
   <tr>
     <td align="center">
       <img
-        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(31).png"
+        src="https://github.com/hasnain2004/hasnain2004/blob/main/pic/Screenshot%20(31).png"
       />
     </td>
     <td align="center">
       <img
-        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(129).png"
+        src="https://github.com/hasnain2004/hasnain2004/blob/main/pic/Screenshot%20(129).png"
       />
     </td>
   </tr>
@@ -267,12 +267,12 @@
   <tr>
     <td align="center">
       <img
-        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(130).png"
+        src="https://github.com/hasnain2004/hasnain2004/blob/main/pic/Screenshot%20(130).png"
       />
     </td>
     <td align="center">
       <img
-        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(82).png"
+        src="https://github.com/hasnain2004/hasnain2004/blob/main/pic/Screenshot%20(82).png"
       />
     </td>
   </tr>
@@ -289,7 +289,7 @@
 </details >
 <!--
 ### Flutter Projects
-- 📱 [Doctor appointment app](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql): Description of the project.
+- 📱 [Doctor appointment app](https://github.com/hasnain2004/Doctor-Appointment-App-with-sql): Description of the project.
 - 📱 [Project 2](https://github.com/7skiessolution/7-Skies-Solution): Description of the project.-->
 
 
@@ -297,5 +297,5 @@
 
 ---
 <p align="center">
-<img src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/github-contribution-grid-snake.svg">
+<img src="https://github.com/hasnain2004/hasnain2004/blob/main/github-contribution-grid-snake.svg">
 </p>
