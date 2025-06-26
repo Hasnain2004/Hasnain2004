@@ -9,8 +9,6 @@
 
 ## 👨🏻‍💻 About Me:
 
-- 🙋‍♂️ All about me is at **[My Website](https://hasnain2004.github.io/portfolio.github.io/)**
-
 - 🔭 I'm a 2022 Graduate and my branch is `Computer Science`.
   
 - 🌱 I’m currently working as a `Flutter Developer`.
@@ -79,7 +77,7 @@
    
     <td><a href="https://www.linkedin.com/in/muhammad-hasnain-476158250/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45px" /> </a></td>
   
-    <td><a href="https://www.facebook.com/profile.php?id=61551659347315" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="45px" /> </a>
+    <td><a href="https://www.facebook.com/61551659347315" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="45px" /> </a>
     <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=hasnainklaar8@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="35px"/> </a></td>
   </table>
 </details>
