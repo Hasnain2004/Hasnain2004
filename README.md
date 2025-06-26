@@ -182,11 +182,11 @@
   <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🌐_Social_Networks-orange?style=plastic" width="200px" height="40px" /></a></summary>
   <table border="3" align="center">
     <tr>
-      <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=hasnain2004@gmail.com&tf=cm" target="_blank"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail" width="55" /></a></td>
+      <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=hasnainklaar8@gmail.com&tf=cm" target="_blank"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail" width="55" /></a></td>
       <td align="center"><a href="https://github.com/hasnain2004" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GitHub_Sponsor.png" alt="GitHub Sponsor" width="65" /></a></td>
-      <td align="center"><a href="https://www.linkedin.com/in/ali-hassan-b17815281/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" alt="LinkedIn" width="55" /></a></td>
-      <td align="center"><a href="https://wa.me/923073921189" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" alt="WhatsApp" width="55" /></a></td>
-      <td align="center"><a href="https://www.facebook.com/jamali.hassan.946" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Facebook" width="55" /></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/muhammad-hasnain-476158250/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" alt="LinkedIn" width="55" /></a></td>
+      <td align="center"><a href="https://wa.me/923006452378" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" alt="WhatsApp" width="55" /></a></td>
+      <td align="center"><a href="https://www.facebook.com/61551659347315" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Facebook" width="55" /></a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=hasnain2004@gmail.com&tf=cm"><img src="https://readme-components.vercel.app/api?component=logo&fill=DB4437&logo=gmail&svgfill=4285F4"></a></td>
