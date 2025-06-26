@@ -189,11 +189,11 @@
       <td align="center"><a href="https://www.facebook.com/61551659347315" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Facebook" width="55" /></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=hasnain2004@gmail.com&tf=cm"><img src="https://readme-components.vercel.app/api?component=logo&fill=DB4437&logo=gmail&svgfill=4285F4"></a></td>
+      <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=hasnainklaar8@gmail.com&tf=cm"><img src="https://readme-components.vercel.app/api?component=logo&fill=DB4437&logo=gmail&svgfill=4285F4"></a></td>
       <td align="center"><a href="https://github.com/hasnain2004"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=white"></a></td>
-       <td align="center"><a href="https://www.linkedin.com/in/ali-hassan-b17815281/"><img src="https://readme-components.vercel.app/api?component=logo&fill=0e76a8&logo=linkedin&svgfill=white"></a></td>
-      <td align="center"><a href="https://wa.me/923073921189"><img src="https://readme-components.vercel.app/api?component=logo&fill=25D366&logo=whatsapp&svgfill=white"></a></td>
-      <td align="center"><a href="https://www.facebook.com/jamali.hassan.946"><img src="https://readme-components.vercel.app/api?component=logo&fill=4267B2&logo=facebook&svgfill=white"></a></td>
+       <td align="center"><a href="https://www.linkedin.com/in/muhammad-hasnain-476158250/"><img src="https://readme-components.vercel.app/api?component=logo&fill=0e76a8&logo=linkedin&svgfill=white"></a></td>
+      <td align="center"><a href="https://wa.me/923006452378"><img src="https://readme-components.vercel.app/api?component=logo&fill=25D366&logo=whatsapp&svgfill=white"></a></td>
+      <td align="center"><a href="https://www.facebook.com/61551659347315"><img src="https://readme-components.vercel.app/api?component=logo&fill=4267B2&logo=facebook&svgfill=white"></a></td>
     </tr>
   </table>
 </details>
