@@ -175,7 +175,7 @@
   </table>
 
   <!--📏LINE-->
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 </details>
 
 <details open> 
